@@ -6,8 +6,12 @@ When you run the code, You will see game like this:
 
 
 <img src="GameInProgress.JPG">
+
+
 Game Over Cases:
 When snake touches it self.
 When snake hits the wall.
+
+
 
 <img src="gameOver.JPG">
