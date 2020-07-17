@@ -8,9 +8,11 @@ When you run the code, You will see game like this:
 <img src="GameInProgress.JPG">
 
 
-Game Over Cases:
-When snake touches it self.
-When snake hits the wall.
+Game Over Cases:-
+
+1.When snake touches it self.
+
+2.When snake hits the wall.
 
 
 
