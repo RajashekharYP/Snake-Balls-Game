@@ -2,7 +2,7 @@
 Snake Game developed using Core Java, Java-Swing &amp; Awt. 
 A popular 90's kids "Game of Snake and balls", where a snake moves towards balls(mouse) and eats and grows every time.
 
-pre-req: To developt this game you need basic knowledge of core java, swing
+pre-req: To develop this game you need basic knowledge of core java, swing. Complete source code is shared here.
 
 When you run the code, You will see game like this:
 
